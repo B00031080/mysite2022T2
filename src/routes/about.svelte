@@ -47,4 +47,7 @@
 		max-width: var(--column-width);
 		margin: var(--column-margin-top) auto 0 auto;
 	}
+	p{
+		color:blue;
+	}
 </style>
